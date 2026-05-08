@@ -1,0 +1,24 @@
+﻿# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Database files (do not upload local database)
+*.db
+*.sqlite
+*.db-journal
+
+# Environment & secrets
+.env
+config.py
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python virtual environments
+venv/
+.venv/
+env/
